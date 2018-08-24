@@ -5,9 +5,9 @@
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="via" href="http://feeds.rapidfeeds.com/79167/" type="application/rss+xml"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.rapidfeeds.com/79167/" type="application/rss+xml"/>
 <description>
-<![CDATA[
-{{GY0ZDI0OGZlZTJkMDSXJKFHSDKFSDFSFKLSJDFKLDJFSJLKMNLSKDFLK}}
-]]>
+<!{CDATA{
+[[NmMwYWViODk0ZDZjYWVlZDRlNDU2YTg1OGU4YmFlYzU2NWVhMmRjZmFiY2Q4NDg0MjM=]]
+}}>
 </description>
 <pubDate>Tue, 21 Jul 2015 05:03:09 EST</pubDate>
 <docs>http://backend.userland.com/rss</docs>
@@ -15,3 +15,4 @@
 <language>en</language>
 </channel>
 </rss>
+
